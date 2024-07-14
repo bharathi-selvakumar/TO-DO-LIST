@@ -1,0 +1,33 @@
+.main-todo{
+  margin-left: 38%;
+}
+h2{
+  font-size:300%;
+}
+.input-box{
+  margin-left: -98px;
+}
+.data-table{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 200%;
+  
+}
+.list{
+  padding: 2px;
+}
+ol{
+  background-color: rgb(204, 227, 247);
+  max-width: 465px;
+  border-radius: 30px;
+
+}
+.list_set{
+  position: relative;
+  right: 100px;
+}
+.DeleteOutlineRoundedIcon{
+  cursor: pointer;
+  color: rgb(161, 91, 59);
+}
+.Checkbox {
+}
